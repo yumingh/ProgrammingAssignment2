@@ -1,4 +1,4 @@
-## The two functions below, makeCacheMatrix() and cacheSolve() will create the matrix object and catche the inverse of the matrix.
+## The two functions, makeCacheMatrix() and cacheSolve() will create the matrix object and catche the inverse of the matrix.
 ## It will save lots of time and avoid to compute the result repeatedly.
 
 
